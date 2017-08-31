@@ -101,6 +101,6 @@ var wateroil =
 {
   "ID" : 2,
   "Fluid":"Oil",
-  "SpecificHeat": 2.5
+  "SpecificHeat": 2.50
 }
 ];
