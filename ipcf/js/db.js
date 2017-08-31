@@ -95,7 +95,7 @@ var wateroil =
 [
 {
   "ID" : 1,
-  "Fluid":"Waterrr",
+  "Fluid":"Water",
   "SpecificHeat": 4.186
 },
 {
